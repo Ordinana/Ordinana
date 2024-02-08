@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hello! 👋 I'm Carlos Ordiñana!
 
-<!--
-**Ordinana/Ordinana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Python Developer | 📊 Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a junior python developer and I’m currently focused on the world of data. Here you will find a showcase of my projects and works. Take a look and feel free to explore!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+
+- Intensive Power BI course, Datdata
+- PCAP™ - Certified Associate in Python Programming
+- Intensive Data Sciencist course, Indice ICF
+- Python language technical course, Campus SEAS
+
+### 📚 Skills
+
+- 💡 Data Analysis & Data Visualization
+- 🤖 Machine Learning
+- 🧮 Maths & Statistics
+- 💻 Programming in Python and SQL
+
+### 🖥️ Languages and Tools
+
+- Jupyter Notebook
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Power BI
+- MySQL
+- phpMyAdmin
+- MongoDB
+- Docker
+- Access
+- Excel
+- Linux
+
+### 📫 Contact
+
+You can find me at:
+
+📧 Email: carlosoa34@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/ordiñana-caballer-
+
+Thank you for visiting my GitHub profile! 
