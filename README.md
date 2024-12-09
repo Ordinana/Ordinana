@@ -1,8 +1,8 @@
 # Hello! 👋 I'm Carlos Ordiñana!
 
-## 💻 Python Developer | 📊 Data Analyst
+## 💻 Data Scientist | 📊 Analisis - Machine Learning - AI
 
-Welcome to my GitHub profile! I'm a junior python developer and I’m currently focused on the world of data. Here you will find a showcase of my projects and works. Take a look and feel free to explore!
+Welcome to my GitHub profile! I'm a Data Sciencist and here you will find a showcase of my projects and works. Take a look and feel free to explore!
 
 ### 🎓 Education
 
