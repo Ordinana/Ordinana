@@ -22,37 +22,32 @@
 
 ## 📚 Skills
 
-- ### 💡 Data Analysis & Data Visualization
-- ### 🤖 Machine Learning
+- ### 💡 Data Science & Analysis
 - ### 🧮 Maths & Statistics
-- ### 💻 Programming in Python and SQL
+- ### 🤖 Machine Learning - AI
+- ### 📊 Data Visualization
 <br>
 
 ## 🖥️ Languages and Tools
 
-- Jupyter Notebook
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Power BI
-- MySQL
-- phpMyAdmin
-- MongoDB
-- Docker
-- Access
-- Excel
-- Linux
+- ### Python
+- ### Pandas
+- ### Matplotlib
+- ### Numpy
+- ### Scikit-Learn 
+- ### TensorFlow
+- ### Seaborn
+- ### SQL
+- ### Power BI
+- ### Docker
 <br>
 
 ## 📫 Contact
 
-You can find me at:
+### You can find me at:
 
-📧 Email: carlosordi.data@gmail.com
+- ### 📧 Email: carlosordi.data@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/ordiñana-caballer-
+- ### 💼 LinkedIn: www.linkedin.com/in/ordiñana-caballer-
 
-Thank you for visiting my GitHub profile! 
+## Thank you for visiting my GitHub profile! 
