@@ -2,23 +2,33 @@
 
 ## 💻 Data Scientist | 📊 Analisis - Machine Learning - AI
 
-Welcome to my GitHub profile! I'm a Data Sciencist and here you will find a showcase of my projects and works. Take a look and feel free to explore!
+### Welcome to my GitHub profile! 
 
-### 🎓 Education
+### I'm a Data Sciencist and here you will find a showcase of my projects and works. 
 
-- Intensive Power BI course, Datdata
-- PCAP™ - Certified Associate in Python Programming
-- Intensive Data Sciencist course, Indice ICF
-- Python language technical course, Campus SEAS
+### FOCUSED ON BRINGING VALUE TO THE BUSINESS THROUGH CLEAR AND DETAILED INSIGHTS. ✅ 
 
-### 📚 Skills
+### Take a look and feel free to explore!
+<br>
 
-- 💡 Data Analysis & Data Visualization
-- 🤖 Machine Learning
-- 🧮 Maths & Statistics
-- 💻 Programming in Python and SQL
+## 🎓 Education
 
-### 🖥️ Languages and Tools
+- ### Master as Data Sciencist at The Bridge / EDEM, focused on data analysis, Machine Learning application and data visualization with interactive dashboards. 
+- ### Intensive Power BI course, Datdata
+- ### Intensive Data Sciencist course, Indice ICF
+- ### PCAP™ - Certified Associate in Python Programming
+- ### Python language technical course, Campus SEAS
+<br>
+
+## 📚 Skills
+
+- ### 💡 Data Analysis & Data Visualization
+- ### 🤖 Machine Learning
+- ### 🧮 Maths & Statistics
+- ### 💻 Programming in Python and SQL
+<br>
+
+## 🖥️ Languages and Tools
 
 - Jupyter Notebook
 - Python
@@ -35,12 +45,13 @@ Welcome to my GitHub profile! I'm a Data Sciencist and here you will find a show
 - Access
 - Excel
 - Linux
+<br>
 
-### 📫 Contact
+## 📫 Contact
 
 You can find me at:
 
-📧 Email: carlosoa34@gmail.com
+📧 Email: carlosordi.data@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/ordiñana-caballer-
 
