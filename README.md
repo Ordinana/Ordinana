@@ -30,14 +30,9 @@
 
 ## 🖥️ Languages and Tools
 
-- ### Python
-- ### Pandas
-- ### Matplotlib
-- ### Numpy
-- ### Scikit-Learn 
-- ### TensorFlow
-- ### Seaborn
-- ### SQL
+- ### Python | SQL
+- ### Pandas | Numpy | Matplotlib | Seaborn
+- ### Scikit-Learn | TensorFlow
 - ### Power BI
 - ### Docker
 <br>
